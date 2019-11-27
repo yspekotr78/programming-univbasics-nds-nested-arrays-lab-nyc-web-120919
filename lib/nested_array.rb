@@ -23,7 +23,7 @@ def assembled_matrix
 end
 
 def array_literal_matrix
-  return res.sort =[[
+  return res =[[
   "Don Gately",
   "Joelle van Dyne",
   "Pat M.",
